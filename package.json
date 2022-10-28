@@ -1,0 +1,19 @@
+{
+  "name": "hng9-first-task",
+  "version": "1.0.0",
+  "description": "HNG9 first task",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kha-lil/HNG9-First-Task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kha-lil/HNG9-First-Task/issues"
+  },
+  "homepage": "https://github.com/Kha-lil/HNG9-First-Task#readme"
+}
